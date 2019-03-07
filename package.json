@@ -1,12 +1,12 @@
 {
-  "name": "supremenewyork-api",
-  "version": "1.2.0",
+  "name": "supremenewyork-api-v2",
+  "version": "2.0.0",
   "description": "An api for Supreme that has many functions.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "aarock1234",
+  "author": "PHClement",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
