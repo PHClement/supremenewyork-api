@@ -1,10 +1,10 @@
 {
   "name": "supremenewyork-api-v2",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "An api for Supreme that has many functions.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "PHClement",
   "license": "MIT",

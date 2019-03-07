@@ -10,13 +10,13 @@ api.monitor('0', 'start', (item, error) => {
   }
 });
 
-/*api.droplist((droplist, error) => {
+api.droplist("spring-summer2019", (droplist, error) => {
   if (error) {
     console.log(error);
   } else {
     console.log(droplist);
   }
-})*/
+})
 
 /*api.find('sled', 'all', (item, error) => {
   if (error) {
